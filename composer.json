@@ -1,0 +1,23 @@
+{
+    "name": "tots/cloud-task-lumen",
+    "description": "The library for Lumen PHP",
+    "version": "0.0.1",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tots\\CloudTask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matias Camiletti",
+            "email": "matias.camiletti@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0",
+        "laravel/lumen-framework": "^9.0|^10.0"
+    }
+}
