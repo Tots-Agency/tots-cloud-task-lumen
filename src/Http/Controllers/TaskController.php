@@ -1,6 +1,6 @@
 <?php
 
-namespace Tots\CloudTask\Http\Controller;
+namespace Tots\CloudTask\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Tots\CloudTask\Services\TaskService;
